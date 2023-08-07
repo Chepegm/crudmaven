@@ -25,12 +25,12 @@ public class ClienteController {
 
     @PutMapping("/cliente")
 
-    public void update(@RequestBody ClienteEntity clienteEntity) {
+    public void update(@Valid @RequestBody ClienteEntity clienteEntity) {
         clienteService.update(clienteEntity);
 
     }
 
-    @GetMapping("/cliente")
+    @GetMapping("")
     public List<ClienteEntity> findAll() {
         return clienteService.findALL();
     }

@@ -1,14 +1,15 @@
 package com.example_apimongo.example.model;
 
-import javax.validation.Valid;
-import javax.validation.constraints.Email;
-import javax.validation.constraints.NotEmpty;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.annotation.Transient;
 import org.springframework.data.mongodb.core.mapping.Document;
+
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotEmpty;
+
 
 @Document(value = "cliente")
 @Data

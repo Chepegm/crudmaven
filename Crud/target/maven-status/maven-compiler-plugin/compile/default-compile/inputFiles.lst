@@ -1,7 +1,6 @@
-C:\Curso\Spring\notificaciones\src\main\java\com\example_apimongo\example\model\Destinatario.java
-C:\Curso\Spring\notificaciones\src\main\java\com\example_apimongo\example\controller\NotiController.java
-C:\Curso\Spring\notificaciones\src\main\java\com\example_apimongo\example\repository\NegocioRepository.java
-C:\Curso\Spring\notificaciones\src\main\java\com\example_apimongo\example\model\Negocio.java
-C:\Curso\Spring\notificaciones\src\main\java\com\example_apimongo\example\service\NegocioService.java
-C:\Curso\Spring\notificaciones\src\main\java\com\example_apimongo\example\ApiMongodbApplication.java
-C:\Curso\Spring\notificaciones\src\main\java\com\example_apimongo\example\repository\DestinatarioRepository.java
+C:\Proyectos Maven\Crud\src\main\java\com\example_apimongo\example\model\DbSequence.java
+C:\Proyectos Maven\Crud\src\main\java\com\example_apimongo\example\service\ClienteService.java
+C:\Proyectos Maven\Crud\src\main\java\com\example_apimongo\example\controller\ClienteController.java
+C:\Proyectos Maven\Crud\src\main\java\com\example_apimongo\example\model\ClienteEntity.java
+C:\Proyectos Maven\Crud\src\main\java\com\example_apimongo\example\ApiMongodbApplication.java
+C:\Proyectos Maven\Crud\src\main\java\com\example_apimongo\example\repository\ClienteRepository.java

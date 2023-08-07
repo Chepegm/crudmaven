@@ -1,7 +1,0 @@
-com\example_apimongo\example\model\Negocio.class
-com\example_apimongo\example\repository\DestinatarioRepository.class
-com\example_apimongo\example\ApiMongodbApplication.class
-com\example_apimongo\example\service\NegocioService.class
-com\example_apimongo\example\repository\NegocioRepository.class
-com\example_apimongo\example\controller\NotiController.class
-com\example_apimongo\example\model\Destinatario.class
